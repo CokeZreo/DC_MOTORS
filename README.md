@@ -14,7 +14,8 @@
 - **电流检测**：0~2 A，显示分辨率 0.01 mA（软件滤波后）
 - **OLED 显示**：电压 / 电流 / PWM 占空比 / 转向，四行实时刷新（50 ms）
 - **状态指示**：两颗 LED 分别指示正转 / 反转
-- [原理图](Docs/SCH_MOTOR.png)
+
+![原理图](Docs/SCH_MOTOR.png)
 - [原理图 PDF（高清）](Docs/SCH_MOTOR.pdf) //这个显示不了点击上方PNG，也可下载食用
 - [PCB 工程源文件](PCB/)
 
