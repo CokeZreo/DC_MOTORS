@@ -16,7 +16,7 @@
 - **状态指示**：两颗 LED 分别指示正转 / 反转
 
 ![原理图](Docs/SCH_MOTOR.png)
-- [原理图 PDF（高清）](Docs/SCH_MOTOR.pdf) //这个显示不了点击上方PNG，也可下载食用
+- [原理图 PDF（高清）](Docs/SCH_MOTOR.pdf) —— 若无法在线预览，可下载后用食用
 - [PCB 工程源文件](PCB/)
 
 ## 硬件
