@@ -1,0 +1,20 @@
+# Keil 编译输出
+DC_MOTORS/MDK-ARM/DC_MOTORS/
+DC_MOTORS/MDK-ARM/DebugConfig/
+*.uvguix.*
+*.lst
+*.o
+*.d
+*.axf
+*.crf
+*.dep
+*.htm
+*.lnp
+*.map
+*.sct
+*.iex
+*.bak
+
+# 系统文件
+Thumbs.db
+desktop.ini
